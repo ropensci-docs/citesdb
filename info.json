@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4da9daa13a16062c8993eece696c37aa290ff8a4",
+    "author": "Noam Ross <noam.ross@gmail.com>",
+    "time": "2019-11-22 22:50:20",
+    "files": 5,
+    "merge": true,
+    "message": "Merge pull request #9 from ropensci/codemetardev\n\nupdate codemeta.json"
+  },
+  "remote": "https://github.com/ropensci/citesdb",
+  "pkg": "citesdb"
+}

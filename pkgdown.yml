@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  exploring-cites-trade-data-with-citesdb: exploring-cites-trade-data-with-citesdb.html
+last_built: 2020-09-25T12:29Z
+urls:
+  reference: https://docs.ropensci.org/citesdb/reference
+  article: https://docs.ropensci.org/citesdb/articles
+
